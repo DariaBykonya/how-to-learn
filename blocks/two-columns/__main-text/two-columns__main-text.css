@@ -1,0 +1,10 @@
+/* стили для основного текста страницы */
+.two-columns__main-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  row-gap: 30px;
+  width: 80%;
+  min-width: 784px;
+  padding: 0;
+}
