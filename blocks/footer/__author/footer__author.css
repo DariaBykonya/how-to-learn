@@ -4,4 +4,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  position: absolute;
+  left: 0;
+  bottom: 0;
 }
